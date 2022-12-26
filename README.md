@@ -1,4 +1,4 @@
-# Hi There I'm Deep
+# Hi There I'm Deep 👋.I have completed my Bachelor of Science in CSE at American international university-Bangladesh and my major was Software Engineering.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nazmuldeep&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmuldeep&layout=compact"/>
 
